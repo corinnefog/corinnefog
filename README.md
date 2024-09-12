@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-<!--
+I'm a second year student at UVA who is the in BSDS program
+
+
+This a demo for the systems class 
+
+
 **corinnefog/corinnefog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
